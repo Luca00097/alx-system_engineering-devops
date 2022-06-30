@@ -1,0 +1,6 @@
+echo '#!/bin/bash'>README.md
+pwd
+echo 'c-x c-s'
+echo "C-x C-s">saving
+0-current_working_directory
+ech
